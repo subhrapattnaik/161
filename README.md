@@ -1,5 +1,5 @@
 # 161
-
+pointerLockEnabled	Whether to hide the cursor using the Pointer Lock API.	false
 
 We know that A-Frame is built on Three.js. We need to see how we can access any object or function present in Three.js using A-Frame.
 A-Frame’s <a-scene> is mapped with a Three.js scene.
